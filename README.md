@@ -15,5 +15,12 @@
 - Use `data_merge()` to merge the train set and the test set.
 - Use `data_split()` to randomly divide the dataset into train set and test set according to a rate.
 
-## NOTES
+## License
 
+Distributed under the Apache License. See 'LICENSE' for more information.
+
+## Contact
+
+Zhiwei Li - @mtics- lizhw[dot]cs[at]outlook[dot]com
+
+Project Link: [mtics/arff_vec_to_mat](https://github.com/mtics/arff_vec_to_mat)
